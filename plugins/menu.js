@@ -76,7 +76,7 @@ async function menu(_0x3be3c0, _0x3bdc21) {
       return
     }
     const _0x1ead26 = {
-      text: '📜',
+      text: '✌',
       key: _0x3bdc21.key,
     }
     const _0x4eef5e = { react: _0x1ead26 }
