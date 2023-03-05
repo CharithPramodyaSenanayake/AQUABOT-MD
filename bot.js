@@ -1,3 +1,6 @@
+//Thanks for sanuwaofficial
+
+
 const _0x145c55 = (function () {
     let _0xab99b = true
     return function (_0x1bedaa, _0x5a5bec) {
